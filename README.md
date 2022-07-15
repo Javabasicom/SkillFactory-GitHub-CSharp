@@ -1,3 +1,8 @@
 # SkillFactory-GitHub-CSharp
-
-I am is Andrey. I learning github for programming on C#.
+## Мой параграф в тектовом файле прочитайменя.md
+*I am is Andrey. 
+*I learning github for programming on C#.
+1.С чего то нужно начинать.
+2.Не останавливайся на достигнутом.
+3.Каждый день совершенствуй навыкию
+4.Не бойся узнавать новое и применять на практике.
